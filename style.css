@@ -192,6 +192,19 @@ header{
             display: block;
         }
 
+        table,tr,td{
+            display:block;
+            width:100%;
+        }
+
+        td{
+            padding:10px 0;
+        }
+
+        td p{
+            text-align:left;
+        }
+
     }
 
     
