@@ -11,7 +11,7 @@ body{
     background-color: var(--light-bg);
 }
 header{
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)),url(../images/clarinet\ and\ violin.jpg);
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)),url(/images/clarinet\ and\ violin.jpg);
     background-size: cover;
     background-position: center;
 
