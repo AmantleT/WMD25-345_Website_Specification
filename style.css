@@ -205,7 +205,9 @@ header{
 
         td p{
             text-align:left;
-            white-space: normal;
+            white-space:normal;
+            overflow-wrap:normal;
+            word-break:normal;
         }
 
         p{
